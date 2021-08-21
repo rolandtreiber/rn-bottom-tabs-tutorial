@@ -1,6 +1,6 @@
 # Using custom icon font in React Native
 
-This repo is support for a [medium article](https://medium.com/@hello-85764/how-to-use-custom-icon-font-in-react-native) on the same topic.
+This repo is support for a [medium article](https://hello-85764.medium.com/how-to-create-and-use-custom-icon-font-in-react-native-24ef3b1c8f65) on the same topic.
 
 ## Usage
 
